@@ -22,7 +22,7 @@ function Contact() {
             <a href='https://github.com/KamadiY' target='_blank' className='mt-4 bg-zinc-800 h-[3rem] w-[3rem] flex items-center justify-center rounded-full cursor-pointer transition hover:bg-[#000000]'>
               <BiLogoGithub size={24} />
             </a>
-            <a href='https://www.instagram.com/vilbghost/' target='_blank' className='mt-4 bg-zinc-800 h-[3rem] w-[3rem] flex items-center justify-center rounded-full cursor-pointer transition hover:bg-[#0057FF]'>
+            <a href='https://www.behance.net/yogeshkamdi' target='_blank' className='mt-4 bg-zinc-800 h-[3rem] w-[3rem] flex items-center justify-center rounded-full cursor-pointer transition hover:bg-[#0057FF]'>
               <FaBehance size={24} />
             </a>
             <a href='mailto:yogeshkamadi999@gmail.com' target='_blank' className='mt-4 bg-zinc-800 h-[3rem] w-[3rem] flex items-center justify-center rounded-full cursor-pointer transition hover:bg-[#c71610]'>
